@@ -1,0 +1,4 @@
+python-gyazo
+opencv-python
+pyautogui
+webbrowser
